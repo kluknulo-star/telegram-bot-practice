@@ -1,0 +1,5 @@
+[pyrogram]
+api_id = #your api_id
+api_hash = #your api_hash
+req_chat = #chat for view result
+echo_chat = #chennel for check result

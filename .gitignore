@@ -1,0 +1,9 @@
+/BOT/just_text
+/BOT/my_account.session
+/BOT/my_account.session-journal
+/BOT/my_bd.db
+/UI/UI_start.py.dist
+/UI/source_UI/
+/.idea
+/__pychache__
+/BOT/config.ini
